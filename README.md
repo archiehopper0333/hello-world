@@ -1,6 +1,6 @@
 # Hello World
 
-A simple project to demonsrate how to contribute to a repository.
+A simple project to demonstrate how to contribute to a repository.
 
 ## Getting Started
 
